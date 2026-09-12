@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# XML Sitemap Location
+Sitemap: https://astrologervijaysharma.com/sitemap.xml
